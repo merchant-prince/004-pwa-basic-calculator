@@ -1,6 +1,6 @@
 # basic-calculator
 
-A calculator. Live [here]().
+A calculator. Live [here](https://funny-buttercream-c97f26.netlify.app).
 
 ## Project setup
 ```
